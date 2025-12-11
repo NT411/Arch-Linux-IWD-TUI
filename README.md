@@ -28,7 +28,7 @@ then this **IWD Helper TUI** is for you.
 
 ## Requirements
 
-- Linux system using **iwd** (Intel Wireless Daemon)
+- Linux system using **iwd** (Internet Wireless Daemon)
 - The command **`iwctl`** must be available in `$PATH`
 - **Python 3.8+**
 - No Python dependencies (standard library only)
