@@ -56,7 +56,7 @@ sudo systemctl enable --now iwd.service
 ## Installation
 Clone the repository: 
 ```bash
-git clone https://github.com/NT411/Arch-Linux-Intel-Wireless-Daemon-IWD-TUI-Helper
+git clone https://github.com/NT411/Arch-Linux-IWD-TUI
 ```
 
 Open the repo folder:
