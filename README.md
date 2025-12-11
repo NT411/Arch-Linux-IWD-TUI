@@ -84,9 +84,8 @@ depending on how your system allows Wi-Fi management.
 
 The TUI uses your terminal’s default colors and transparency.
 
-Enjoy
-
 Enjoy fast, reliable, and always-working IWD
+
 No more memorizing commands. No more Googling.
 
 ## Screenshots
