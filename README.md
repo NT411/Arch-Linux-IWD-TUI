@@ -1,4 +1,4 @@
-# Arch-Linux-Internet Wireless Daemon-IWD-TUI-Helper
+# Arch Linux Internet Wireless Daemon TUI Helper
 Simple IWD TUI 
 
 IWD has never let me down in terms of reliability.  
