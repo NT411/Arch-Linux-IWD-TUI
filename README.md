@@ -39,7 +39,7 @@ On a clean Arch Linux install, you may need to install it manually.
 ### Check if `iwctl` is installed
 
 ```bash
-iwctl --version
+pacman -Qi iwd
 ```
 If that command works, you’re good to go.
 
