@@ -1027,7 +1027,7 @@ def main_menu(stdscr, state: AppState):
     ]
 
     while True:
-        choice = generic_menu(stdscr, "IWCTL HELPPER", items)
+        choice = generic_menu(stdscr, "IWCTL HELPER", items)
 
         if choice == 0:
             submenu_adapters(stdscr, state)
