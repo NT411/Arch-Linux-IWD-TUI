@@ -60,15 +60,15 @@ git clone https://github.com/NT411/Arch-Linux-Intel-Wireless-Daemon-IWD-TUI-Help
 ```
 
 Open the repo folder:
-``bash 
+```bash 
 cd Arch-Linux-Intel-Wireless-Daemon-IWD-TUI-Helper
 ```
 
 Run the TUI:
+
 ```bash
 python iwctl_helper.py
 ```
-
 ## On first launch, the program will:
 
 1) Run iwctl device list
