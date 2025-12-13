@@ -6,7 +6,7 @@ It doesn’t break after updates, doesn’t randomly crash, and it just works!
 
 If you’re like me and:
 - forget `iwctl` commands,
-- are tired of constantly googling them,
+- are tired of constantly doing [iwd]# help,
 - want fast and simple Wi-Fi management,
 
 then this **IWD Helper TUI** is for you.
